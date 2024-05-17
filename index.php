@@ -28,7 +28,7 @@
 	<?php require_once('header.php'); ?>
 	<body>
 		<div class="limiter">
-			<div class="container-login100" style="background-image: url('images/bg-01.jpg');">
+			<div class="container-login100" style="background-image: url('assets/images/bg-01.jpg');">
 				<div class="wrap-login100">
 					<form  id="loginform" class="login100-form " role="form" action="<?php $_SERVER['PHP_SELF'] ?>" method="POST" autocomplete="off">
 						<span class="login100-form-logo">

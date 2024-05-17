@@ -75,7 +75,7 @@
 	<?php require_once('header.php'); ?>
 	<body>
 		<div class="limiter">
-			<div class="container-login100" style="background-image: url('images/bg-01.jpg');">
+			<div class="container-login100" style="background-image: url('assets/images/bg-01.jpg');">
 				<div class="wrap-login100">
 					<form  id="signupform" role="form" action="<?php $_SERVER['PHP_SELF'] ?>" method="POST" autocomplete="off" >
 						<div id="signupalert" style="display:none" class="alert alert-danger">
