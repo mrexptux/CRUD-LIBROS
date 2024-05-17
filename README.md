@@ -50,7 +50,6 @@ Abre un navegador y accede a `http://localhost/login/` para iniciar la aplicaci�
 
 ## Puntos a Mejorar
 
-- Añadir filtros para evitar la inserción de libros duplicados.
 - Implementar un sistema de autenticación más robusto, como JWT o OAuth.
 - Organizar el código en un patrón MVC para mejorar la mantenibilidad y escalabilidad del proyecto.
 
